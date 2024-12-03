@@ -1,3 +1,4 @@
+# %%
 import re
 
 data ='./data/3.2.txt'
