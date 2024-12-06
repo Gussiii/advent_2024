@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 /data/test.txt
+hub.py
 
 # Distribution / packaging
 .Python
